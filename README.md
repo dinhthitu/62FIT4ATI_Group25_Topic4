@@ -41,11 +41,6 @@ https://drive.google.com/drive/folders/1b4KvfO_Vid9HputdJwATAQBmYImWhmgR?usp=sha
 ### 2.2 Upload Data to Colab
 Upload `train.csv` and `test.csv` to the Colab .
 
-The files can be provided using any of the following methods:
-- Upload via the **Colab Files panel**
-- Mount **Google Drive** and place the files in Drive
-- Clone from a **GitHub repository** (if applicable)
-
 > **Note**  
 > The code assumes that `train.csv` and `test.csv` already exist in the working directory.  
 > No specific upload method is required.
