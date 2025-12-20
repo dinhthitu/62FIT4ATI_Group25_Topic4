@@ -8,8 +8,7 @@ This document describes how to set up the environment and reproduce the results 
 
 ### 1.1 Open Google Colab
 - Go to: https://colab.research.google.com
-- Create a new notebook or open the provided `.ipynb` file
-- Paste the full source code into the notebook or upload the notebook directly
+- Open the provided `.ipynb` file via GitHub link: https://github.com/dinhthitu/62FIT4ATI_Group25_Topic4/edit/main
 
 ---
 
@@ -40,7 +39,7 @@ https://drive.google.com/drive/folders/1b4KvfO_Vid9HputdJwATAQBmYImWhmgR?usp=sha
 ---
 
 ### 2.2 Upload Data to Colab
-Upload `train.csv` and `test.csv` to the Colab working directory (e.g. `/content/`).
+Upload `train.csv` and `test.csv` to the Colab .
 
 The files can be provided using any of the following methods:
 - Upload via the **Colab Files panel**
